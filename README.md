@@ -1,2 +1,4 @@
 # Escape-Sequences-in-Strings
-Quotes
+
+var myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
+
